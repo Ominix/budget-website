@@ -1,0 +1,7 @@
+git init
+git clone (url)
+git add .
+git commit -m "(committed message)"
+git remote add origin (url)
+git push origin master
+git pull origin master
